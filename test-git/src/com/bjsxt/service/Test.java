@@ -6,4 +6,5 @@ public interface Test {
 	void sad();
 	void aaa();
 	void aaa11();
+	void m5();
 }
