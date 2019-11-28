@@ -7,4 +7,5 @@ public interface Test {
 	void aaa();
 	void aaa11();
 	void m5();
+	void mm4();
 }
